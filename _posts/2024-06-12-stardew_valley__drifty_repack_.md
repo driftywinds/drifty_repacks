@@ -1,6 +1,6 @@
 ---
 title: 'Stardew Valley [drifty repack]'
-layout: default
+layout: post
 
 ---
 ![2024-06-03-129866.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-129866.avif)
