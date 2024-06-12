@@ -1,10 +1,10 @@
 ---
 layout: category_index
-title: Writing
-permalink: /writing/
-category_name: writing
----
+title: Posts
+permalink: /posts/
+category_name: posts
 
+---
 <!--
 
 Set the front matter:
