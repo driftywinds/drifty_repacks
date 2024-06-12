@@ -2,9 +2,9 @@
 title: 'Stardew Valley [drifty repack]'
 
 ---
-v1.6.2 (Build 13805836) 
-
 ![2024-06-03-129866.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-129866.avif)
+
+v1.6.2 (Build 13805836) 
 
 Download Size: 411 MB
 
