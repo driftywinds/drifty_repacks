@@ -1,6 +1,6 @@
 ---
 title: 'Turnip Boy Games [drifty repack]'
-layout: ''
+layout: post
 
 ---
 ![2024-06-03-401018.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-401018.avif)
