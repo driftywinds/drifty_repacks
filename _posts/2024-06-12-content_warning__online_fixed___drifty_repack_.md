@@ -1,6 +1,6 @@
 ---
 title: 'Content Warning (online fixed) [drifty repack]'
-layout: post
+layout: ''
 
 ---
 ![2024-06-03-427762.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-427762.avif)
