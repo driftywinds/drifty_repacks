@@ -1,8 +1,10 @@
 ---
-title: 'The Universim v1.0.00.46017 [drifty repack]'
+title: 'The Universim [drifty repack]'
 
 ---
 ![2024-06-03-219637.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-219637.avif)
+
+v1.0.00.46017
 
 Download Size: 2.4 GB
 
