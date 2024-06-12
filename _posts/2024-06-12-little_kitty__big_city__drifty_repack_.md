@@ -1,5 +1,6 @@
 ---
 title: 'Little Kitty, Big City [drifty repack]'
+layout: post
 
 ---
 ![2024-06-03-560305.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-560305.avif)
