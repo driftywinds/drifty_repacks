@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: drifty repacks
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Alternate site for [my main site](https://drifty.win)
