@@ -2,9 +2,9 @@
 title: 'HEARTSHOT [drifty repack]'
 
 ---
-v0.2.4
-
 ![2024-06-03-31694.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-31694.avif)
+
+v0.2.4
 
 Download Size: 3.06 GB
 
