@@ -1,8 +1,10 @@
 ---
-title: 'Lethal Company v50 (online fixed) [drifty repack]'
+title: 'Lethal Company (online fixed) [drifty repack]'
 
 ---
 ![2024-06-03-104027.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-104027.avif)
+
+v50
 
 Download Size: 315 MB
 
