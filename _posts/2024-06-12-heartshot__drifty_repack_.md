@@ -1,6 +1,6 @@
 ---
 title: 'HEARTSHOT [drifty repack]'
-layout: post
+layout: ''
 
 ---
 ![2024-06-03-31694.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-31694.avif)
