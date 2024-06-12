@@ -1,6 +1,6 @@
 ---
 title: 'Viewfinder [drifty repack]'
-layout: ''
+layout: post
 
 ---
 ![2024-06-03-355110.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-355110.avif)
