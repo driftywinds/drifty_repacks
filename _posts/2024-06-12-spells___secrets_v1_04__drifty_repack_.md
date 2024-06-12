@@ -1,8 +1,10 @@
 ---
-title: 'Spells & Secrets v1.04 [drifty repack]'
+title: 'Spells & Secrets [drifty repack]'
 
 ---
 ![2024-06-03-823147.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-823147.avif)
+
+v1.04
 
 Download Size: 1.54 GB
 
