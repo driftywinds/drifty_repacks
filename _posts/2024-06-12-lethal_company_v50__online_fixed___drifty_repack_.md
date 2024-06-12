@@ -1,6 +1,6 @@
 ---
 title: 'Lethal Company (online fixed) [drifty repack]'
-layout: post
+layout: ''
 
 ---
 ![2024-06-03-104027.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-104027.avif)
