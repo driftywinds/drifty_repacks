@@ -1,6 +1,6 @@
 ---
 title: 'Spells & Secrets [drifty repack]'
-layout: post
+layout: ''
 
 ---
 ![2024-06-03-823147.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-823147.avif)
