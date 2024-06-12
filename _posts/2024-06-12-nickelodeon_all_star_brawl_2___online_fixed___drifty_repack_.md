@@ -1,6 +1,6 @@
 ---
 title: 'Nickelodeon All Star Brawl 2  (online fixed) [drifty repack]'
-layout: ''
+layout: post
 
 ---
 ![2024-06-03-867640.avif](https://driftywinds.github.io/drifty_repacks/assets/2024-06-03-867640.avif)
